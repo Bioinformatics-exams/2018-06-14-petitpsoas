@@ -70,11 +70,10 @@ All Exon 50 Mb v5 kits* et un séquençage haut débit Illumina. On a ensuite r�
 ### Q5
 Les méthodes de séquençage nouvelle génération comme Illumina utilisé dans l'article ont l'avantage d'être moins couteuses et offrent un aperçu du génome entier. Cependant, les erreurs sont plus fréquentes qu'avec le *Gold Standard* qui est le séquençage de Sanger. On réalise donc d'abord un séquençage haut débt, puis on confirme grâce à un séquençage de Sanger la partie du gène concerné uniquement (chez l'individu et chez ses parents). On confirme ainsi la variation de novo, si la mutation est présente uniquement chez l'enfant et pas chez ses parents.
 ### Q6 
+* Le patient 1 est porteur d'une variation hétérozygote délétère de novo (une insertion). Elle est localisé juste en aval de l'exon 3 du gène *FBXO11* et entraîne une altération du site d'épissage.
+* Pour le patient 2, la variation conduit à l'apparition d'un codon stop, et c'est le seul variant de novo détecté qui a été sélectionné après les différentes méthodes de filtrages appliqués.
 ### Q7
 * Les variations délétères ont été observées de novo pour les 2 individus
-* un troisième individu porteur de la même varation que l'individu 2 a été décrit dans la littérature: Martínez et al. 
-2017)
-* 8 autres individus ont été décrits dans la littérature et porteurs d'une mutation sur *FBXO11*, associé à une déficience intellectuelle (Lelieveld et al. 
-2016)
-*
+* un troisième individu porteur de la même varation que l'individu 2 a été décrit dans la littérature: Martínez et al. 2017)
+* 8 autres individus ont été décrits dans la littérature et porteurs d'une mutation sur *FBXO11*, associé à une déficience intellectuelle (Lelieveld et al. 2016)
 
